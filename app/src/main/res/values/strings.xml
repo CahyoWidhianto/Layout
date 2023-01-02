@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PPBLayout</string>
+
+    <string name="phone_description">
+        Vivo Y19 masih cukup digandrungi masyarakat. Harganya yang terjangkau dan fiturnya yang mumpuni jadi salah satu alasan ponsel tersebut memiliki banyak peminat.
+    </string>
+
+    <string name="phone_display">
+        Type        : IPS LCD\n
+        Size        :6.53 inches, 104.7 cm2 (~84.4% screen-to-body ratio)\n
+        Resolution  :1080 x 2340 pixels, 19.5:9 ratio (~395 ppi density)\n
+    </string>
+    
+    <string name="phone_Body">
+        Dimensions  : 162.2 x 76.5 x 8.9 mm (6.39 x 3.01 x 0.35 in)\n
+        Weight  	: 193 g (6.81 oz)\n
+        Build   	: Glass front, plastic back, plastic frame\n
+        SIM     	: Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)\n
+    </string>
+
+    <string name="phone_network">
+        GSM / HSPA / LTE
+    </string>
+
+    <string name="phone_platform">
+        OS      : Android 9.0 (Pie), Funtouch 9.2\n
+        Chipset : Mediatek MT6768 Helio P65 (12nm)\n
+        CPU     : Octa-core (2x2.0 GHz Cortex-A75 and 6x1.7 GHz Cortex-A55)\n
+        GPU     : Mali-G52 MC2\n
+    </string>
+
+    <string name="phone_battrey">
+        Type        : Li-Po 5000 mAh, non-removable\n
+        Charging	: Fast charging 18W\n
+                      Reverse charging 5W\n
+    </string>
+</resources>
